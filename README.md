@@ -1,33 +1,20 @@
-<title>Project: 0x11. C - printf | ALX Africa Intranet</title>
 <h1 class="gap">0x11. C - printf</h1>
-<div class="panel-body">
-      <p>
-        <em>For this project, we expect you to look at these concepts:</em>
-      </p>
+<p> <em>For this project, we expect you to look at these concepts:</em> </p>
+<ul>
+<li> <a href="">Group Projects</a> </li>
+<li> <a href="">Pair Programming - How To</a> </li>
+<li><a href="">Flowcharts</a> </li>
+<li> <a href="">Technical Writing</a> </li>
+</ul>
 
-      <ul>
-          <li>
-            <a href="/concepts/111">Group Projects</a>
-          </li>
-          <li>
-            <a href="/concepts/121">Pair Programming - How To</a>
-          </li>
-          <li>
-            <a href="/concepts/130">Flowcharts</a>
-          </li>
-          <li>
-            <a href="/concepts/225">Technical Writing</a>
-          </li>
-      </ul>
-    </div>
 <h2>Background Context</h2>
 <p>Write your own <code>printf</code> function.</p>
-h2>Resources</h2>
+<h2>Resources</h2>
 
 <p><strong>Read or watch</strong>:</p>
 
 <ul>
-<li><a href="/rltoken/7Vw7aUWgwC7JYUrqI4bh4Q" title="Secrets of printf" target="_blank">Secrets of printf</a> </li>
+<li><a href="https://www.academia.edu/10297206/Secrets_of_printf_" title="Secrets of printf" target="_blank">Secrets of printf</a> </li>
 <li><strong>Group Projects</strong> concept page (<em>Don&rsquo;t forget to read this</em>)</li>
 <li><strong>Flowcharts</strong> concept page</li>
 </ul>
